@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/jlee0398/pipelines-java/_apis/build/status/joon-idea.pipelines-java?branchName=master)](https://dev.azure.com/jlee0398/pipelines-java/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
